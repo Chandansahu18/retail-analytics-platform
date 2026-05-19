@@ -1,0 +1,24 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Datasets
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.json
+
+# DuckDB warehouse
+warehouse/*.db
+warehouse/*.duckdb
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
