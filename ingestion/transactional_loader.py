@@ -38,6 +38,7 @@ OLIST_FILES = {
     "olist_order_payments_dataset.csv": "raw.order_payments",
     "olist_order_reviews_dataset.csv":  "raw.order_reviews",
     "olist_geolocation_dataset.csv":    "raw.geolocation",
+    "product_category_name_translation.csv": "raw.product_category_translation"
 }
 
 def load_table(conn, file_path: Path, table_name: str):
