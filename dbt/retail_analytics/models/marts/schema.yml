@@ -68,7 +68,7 @@ models:
               arguments:
                 values: ["Champions", "Loyal", "Potential", "At Risk", "Lost"]
 
-  - name: fact_order_items
+  - name: fact_order_item
     description: Item-level fact table. One row per product item within an order
     columns:
       - name: order_item_key
