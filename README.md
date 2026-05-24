@@ -449,14 +449,14 @@ retail-analytics-platform/
 - DBeaver Community (optional - for visual SQL browsing)
 - Kaggle account (for dataset download)
 
-### 1 — Clone Repository
+### 1 - Clone Repository
 
 ```bash
 git clone https://github.com/Chandansahu18/retail-analytics-platform.git
 cd retail-analytics-platform
 ```
 
-### 2 — Create and Activate Virtual Environment
+### 2 - Create and Activate Virtual Environment
 
 ```bash
 python -m venv venv
@@ -468,13 +468,13 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3 — Install Dependencies
+### 3 - Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4 — Configure Environment Variables
+### 4 - Configure Environment Variables
 
 Create `.env` in the project root:
 
