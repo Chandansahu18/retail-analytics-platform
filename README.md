@@ -38,7 +38,6 @@ End-to-end retail analytics platform built using Python, DuckDB, dbt Core, SQL, 
 * [Setup Instructions](#setup-instructions)
 * [Documentation](#documentation)
 * [Future Improvements](#future-improvements)
-* [Author](#author)
 
 ---
 
